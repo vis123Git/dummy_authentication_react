@@ -1,0 +1,17 @@
+.loginBox{
+        display: block;
+        justify-content: space-between;
+        align-items: center;
+        text-align: center;
+        /* border: 2px solid yellow; */
+        max-width: 400px;
+        min-height: 300px;
+        padding: 20px;
+        border-radius: 8px;
+        padding: 2px;
+        margin: 4px;
+        box-shadow:
+          0 0 20px rgba(227, 223, 223, 0.5);
+        margin: 4px;
+      }
+      
